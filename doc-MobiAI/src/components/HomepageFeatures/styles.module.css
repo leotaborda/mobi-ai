@@ -1,0 +1,46 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureImage {
+  height: 120px;
+  width: 120px;
+  margin-bottom: 1.5rem;
+}
+
+.featureCard {
+  height: 100%;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  margin-bottom: 2rem;
+}
+
+.featureCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.sectionTitle {
+  text-align: center;
+  margin-bottom: 3rem;
+  font-size: 2rem;
+  color: var(--ifm-color-primary);
+  position: relative;
+  padding-bottom: 1rem;
+}
+
+.sectionTitle:after {
+  content: '';
+  position: absolute;
+  width: 80px;
+  height: 3px;
+  background: var(--ifm-color-primary);
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
