@@ -13,13 +13,13 @@ O Market Report (MKR) é um relatório mensal detalhado sobre o mercado automoti
 - Informações gerais sobre o mercado automotivo
 - Tendências e análises comparativas
 
-Este relatório é uma ferramenta essencial para tomadas de decisão estratégicas no setor automotivo, sendo utilizado por executivos, gerentes e analistas para acompanhar o desempenho do mercado e identificar oportunidades.
+Este relatório é uma ferramenta essencial para tomadas de decisão estratégicas nos setores automotivos dentro da Bosch, sendo utilizado por executivos, gerentes, analistas para acompanhar o desempenho do mercado e identificar oportunidades.
 
 ## O que é o MOBI AI?
 
-O MOBI AI (Market Report Automotivo com Inteligência Artificial) é uma solução tecnológica inovadora que automatiza completamente o processo de criação do Market Report. Utilizando um conjunto de inteligências artificiais especializadas e sistemas de automação, o MOBI AI transforma um processo manual que consumia dias de trabalho em um fluxo automatizado que entrega resultados em minutos.
+O MOBI AI (Mobility Business Intelligence - Artificial Intelligence) é uma solução tecnológica inovadora que automatiza completamente o processo de criação do Market Report. Utilizando um conjunto de inteligências artificiais especializadas e sistemas de automação, o MOBI AI transforma um processo manual que consumia dias de trabalho em um fluxo automatizado que entrega resultados em minutos.
 
-## Proposta de Valor
+## Proposta
 
 O MOBI AI entrega valor através de:
 
@@ -35,7 +35,7 @@ Nossa solução se alinha com necessidades críticas do setor automotivo:
 
 - Necessidade de dados atualizados e confiáveis em um mercado dinâmico
 - Demanda por análises rápidas para responder a mudanças de mercado
-- Requisito de compartilhamento eficiente de informações entre stakeholders
+- Requisito de compartilhamento do MKR com stakeholders internos
 - Foco em atividades estratégicas em vez de operacionais
 
 O MOBI AI representa uma evolução significativa na maneira como as informações sobre o mercado automotivo são coletadas, processadas e apresentadas, trazendo a inovação tecnológica para um processo tradicionalmente manual.
